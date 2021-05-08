@@ -1,4 +1,4 @@
-h1 {
+/* h1 {
     color: blue;
 }
 
@@ -12,4 +12,12 @@ h2.belajar {
 
 h2, h4, h5 {
     color: red;
+} */
+
+#idwarna {
+    color: #9a2525;
+}
+
+h2 {
+    color: #087d8d;
 }
