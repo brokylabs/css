@@ -6,6 +6,10 @@ h1 {
     color: orange;
 }
 
-.belajar {
+h2.belajar {
     color: green;
+}
+
+h2, h4, h5 {
+    color: red;
 }
