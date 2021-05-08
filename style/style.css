@@ -14,10 +14,21 @@ h2, h4, h5 {
     color: red;
 } */
 
+.warnaKelas {
+    color: #aa356a;
+}
+
 #idwarna {
-    color: #9a2525;
+    background-color: #bccacd;
+    padding: 0.4em;
 }
 
 h2 {
     color: #087d8d;
 }
+
+body {
+    background-image: url(../img/4614.jpg);
+    background-position: center;
+}
+
