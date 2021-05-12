@@ -1,0 +1,16 @@
+.borderCSS {
+    /* border-style: dotted; */
+
+    border-style: double;
+    /* border-style: dashed; */
+    /* border-style: solid; */
+    /* border-style: groove; */
+    /* border-style: ridge; */
+    /* border-style: inset; */
+    /* border-style: outset; */
+
+    /* border-style: none; */
+    /* border-style: hidden; */
+
+    /* border-style: dotted dashed none double; */
+}
