@@ -1,0 +1,21 @@
+.outlineCSS {
+    /* Border */
+    border-style: dotted;
+    border-color: goldenrod;
+    border-width: 12px;
+
+    /* ourline */
+    /* outline-style: solid;
+    outline-color: greenyellow;
+    outline-width: 10px; */
+    outline-offset: 20px;
+
+    outline: 20px solid grey;
+
+    /* margin */
+    margin: 30px;
+}
+
+p {
+    text-align: center;
+}
